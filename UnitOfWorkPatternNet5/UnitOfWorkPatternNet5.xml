@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UnitOfWorkPatternNet5</name>
+    </assembly>
+    <members>
+        <member name="M:UnitOfWorkPatternNet5.Controllers.CustomersController.GetAllCustomersAsync">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnitOfWorkPatternNet5.Controllers.CustomersController.GetCustomerByIdAsync(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UnitOfWorkPatternNet5.Controllers.CustomersController.GetEnabledCustomersAsync">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnitOfWorkPatternNet5.Controllers.CustomersController.UpdateCustomerAsync(System.Int32,UnitOfWorkPatternNet5.Models.Customer)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="customer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UnitOfWorkPatternNet5.Controllers.CustomersController.AddCustomerAsync(UnitOfWorkPatternNet5.Models.Customer)">
+            <summary>
+            
+            </summary>
+            <param name="customer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UnitOfWorkPatternNet5.Controllers.ProductsController.GetEnabledProductsAsync">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UnitOfWorkPatternNet5.Controllers.ProductsController.GetProductByIdAsync(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UnitOfWorkPatternNet5.Controllers.ProductsController.UpdateProductAsync(System.Int32,UnitOfWorkPatternNet5.Models.Product)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UnitOfWorkPatternNet5.Controllers.ProductsController.AddProductAsync(UnitOfWorkPatternNet5.Models.Product)">
+            <summary>
+            
+            </summary>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
